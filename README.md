@@ -1,4 +1,6 @@
-# dashboard
+# feedback-widget-landing-page
+
+Landing page criada para o widget de feedback do curso de Vue3 da Vuejs Brasil
 
 ## Project setup
 ```
@@ -32,4 +34,3 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-# feedback-widget-landing-page
